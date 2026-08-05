@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://github.com/AIAshinze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AIAshinze" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ifechukwude-ashinze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ifechukwude-ashinze" height="30" width="40" /></a>
-<a href="https://instagram.com/teeifyashinze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teeifyashinze" height="30" width="40" /></a>
+<a href="https://instagram.com/littlegrxxnman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teeifyashinze" height="30" width="40" /></a>
 <a href="https://twitter.com/teeifyashinze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teeifyashinze" height="30" width="40" /></a>
 </p>
 
