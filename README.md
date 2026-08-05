@@ -24,6 +24,8 @@
 
 - 📄 Know about my experiences **[view my resume](https://drive.google.com/file/d/1T5cI-fBzE4KoPSLHogDa-KBtkKWGdH5j/view?usp=sharing)**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/AIAshinze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AIAshinze" height="30" width="40" /></a>
@@ -32,8 +34,9 @@
 <a href="https://twitter.com/teeifyashinze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teeifyashinze" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,bash,c,cassandra,cpp,css,dart,django,docker,express,fastapi,figma,flask,flutter,git,html,java,js,kubernetes,linux,matlab,mongodb,mysql,nodejs,postgres,postman,py,pytorch,react,redis,rust,scikitlearn,spring,sqlite,tensorflow"
@@ -54,8 +57,8 @@
 </p>
 -->
 
+<!--
 <h3 align="left">📊 GitHub Stats:</h3>
-<!-- comment
 <table>
   <tr>
     <td width="50%">
@@ -76,7 +79,6 @@
     </td>
   </tr>
 </table>
--->
 <p align="left">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AIAshinze&theme=merko&radius=10" alt="AIAshinze's Activity Graph" />
 </p>
@@ -84,4 +86,10 @@
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+-->
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </div>
