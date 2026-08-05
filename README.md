@@ -2,7 +2,7 @@
 
 ### My goal is to become an engineering Swiss army knife, equipped with diverse skills to tackle a variety of challenges and innovate across multiple disciplines.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiashinze&label=Profile views&color=0e75b6&style=flat" alt="AIAshinze" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AIAshinze&label=Profile%20views&color=0e75b6&style=flat" alt="AIAshinze" /> </p>
 
 <!-- comment
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
